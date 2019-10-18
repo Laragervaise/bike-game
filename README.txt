@@ -1,1 +1,40 @@
-README270630 Lara Gervaise247316 Jrmie FreiLancement du jeu Simplement cliquer sur ÇÊRunÊÈ.Contr™les¥ Flche vers le haut : Avancer.¥ Flche vers le bas : SÕarrter.¥ Touche Espace : Changer de sens (maintenir pour sÕarrter).¥ Flche vers la gauche : Lever la roue droite.¥ Flche vers la droite : Lever la roue gauche.¥ Lettre R : Recommencer le niveau depuis le dbut.¥ Lettre C : Recommencer le niveau depuis le dernier checkpoint (drapeau bleu/vert).¥ Touche Entrer : Passer au niveau suivant une fois la ligne dÕarrive (drapeau rouge) franchie.Obstacles/effets¥ Puit de gravit : Zone o la gravit est modifie.¥ Bascule : Planche pose sur un bloc triangulaire permettant un effet de bascule.¥ Pendule : Balle oscillant, ˆ viter.¥ Caisse : Caisse en bois, fixe ou non.¥ Terrain : Le type de terrain est dfini par sa couleur (rouge = rebondissant, bleu = glissant comme la glace).Liste des niveaux par ordre dÕapparition ¥ TutorialBikeLevel : Un niveau tutoriel.¥ BasicBikeLevel : Le niveau basique propos dans la donne.¥ JumpBikeLevel : Un niveau comportant des sauts.¥ GravityWellBikeLevel :  Un niveau mettant en scne des puits de gravit.¥ RockerBikeLevel :  Un niveau comportant des bascules.¥ PendulumBikeLevel : Un niveau mettant en scne des pendules.
+Notice du jeu
+
+Lancement du jeu 
+Simplement cliquer sur Ã‡ÃŠRunÃŠÃˆ.
+
+
+
+Contrâ„¢les
+
+Â¥ FlÂche vers le haut : Avancer.
+Â¥ FlÂche vers le bas : SÃ•arrÂter.
+Â¥ Touche Espace : Changer de sens (maintenir pour sÃ•arrÂter).
+Â¥ FlÂche vers la gauche : Lever la roue droite.
+Â¥ FlÂche vers la droite : Lever la roue gauche.
+Â¥ Lettre R : Recommencer le niveau depuis le dÅ½but.
+Â¥ Lettre C : Recommencer le niveau depuis le dernier checkpoint (drapeau bleu/vert).
+Â¥ Touche Entrer : Passer au niveau suivant une fois la ligne dÃ•arrivÅ½e (drapeau rouge) franchie.
+
+
+
+Obstacles/effets
+
+Â¥ Puit de gravitÅ½ : Zone oÂ la gravitÅ½ est modifiÅ½e.
+Â¥ Bascule : Planche posÅ½e sur un bloc triangulaire permettant un effet de bascule.
+Â¥ Pendule : Balle oscillant, Ë† Å½viter.
+Â¥ Caisse : Caisse en bois, fixe ou non.
+Â¥ Terrain : Le type de terrain est dÅ½fini par sa couleur (rouge = rebondissant, bleu = glissant comme la glace).
+
+
+
+Liste des niveaux par ordre dÃ•apparition
+ 
+Â¥ TutorialBikeLevel : Un niveau tutoriel.
+Â¥ BasicBikeLevel : Le niveau basique proposÅ½ dans la donnÅ½e.
+Â¥ JumpBikeLevel : Un niveau comportant des sauts.
+Â¥ GravityWellBikeLevel :  Un niveau mettant en scÂne des puits de gravitÅ½.
+Â¥ RockerBikeLevel :  Un niveau comportant des bascules.
+Â¥ PendulumBikeLevel : Un niveau mettant en scÂne des pendules.
+
+

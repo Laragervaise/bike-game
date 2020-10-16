@@ -1,2 +1,3 @@
 # bike-game
-It's a game developed during my second year of Bachelor in communication system.
+A video game with ùultiple level. Read the notice-jeu file to learn how to play.
+
